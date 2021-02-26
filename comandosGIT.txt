@@ -1,0 +1,4 @@
+git remote add origin, origin es el nombre que sugiere que tendra el enlace
+
+para ver que repositorio remoto esta asociado se utiliza:
+git remote -v
