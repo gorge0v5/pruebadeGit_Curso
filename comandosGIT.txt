@@ -2,3 +2,15 @@ git remote add origin, origin es el nombre que sugiere que tendra el enlace
 
 para ver que repositorio remoto esta asociado se utiliza:
 git remote -v
+
+Se utiliza para crear una rama
+git checkout -b func/controlador-contador
+
+para pushear solo los cambios que estan en la rama se utiliza
+git commit
+git push -u origin func/controlador-contador
+
+prueba de texto solo para generar diferencias
+
+
+mas registro de palabras............... ..............
